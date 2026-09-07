@@ -13,7 +13,6 @@ public class tugas4grup {
         System.out.println("Harga Mie   " + harga_mie + "   x" +mie);
         System.out.println("Harga Telur " + harga_telur + "   x" +telur);
         System.out.println("Harga Air   " + harga_air + "   x" +air);
-
         System.out.println("harga total nya adalah " + total);
 
     }

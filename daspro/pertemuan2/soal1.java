@@ -7,8 +7,7 @@ public class soal1 {
         int a = 3;
         int b = 2;
         int c = 1;
-        int kuadrat = a * a;
-        int hasil = 2 * kuadrat + a * b + c;
+        int hasil = 2 * a * a + a * b + c;
         System.out.println("------------------------------------------------");
         System.out.println("Menghitung persamaan kuadrat x = 2a^2 + ab + c");
         System.out.println("------------------------------------------------");

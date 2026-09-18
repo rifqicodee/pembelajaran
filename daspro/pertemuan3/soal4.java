@@ -15,7 +15,7 @@ public class soal4 {
         sc.close();
         int kembalian = nominal - total_belanja;
         System.out.println("nilai belanja anda adalah Rp. " + total_belanja);
-        System.out.println("nilai nominal yang dibayar Rp. " + nominal);
+        System.out.println("nilai nominal yang pembayaran Rp. " + nominal);
         System.out.println("jadi untuk kembalian nya adalah Rp. " + kembalian);
     }
 }

@@ -18,6 +18,9 @@ public class soal1 {
         int c = sc.nextInt();
 
         int x = 2 * a * a + (a * b) + c;
+        System.out.println("nilai a yang kamu masukan = " + a);
+        System.out.println("nilai b yang kamu masukan = " + b);
+        System.out.println("nilai c yang kamu masukan = " + c);
         System.out.println("hasil perhitungan dari x = 2a^2 + ab + c");
         System.out.println("hasil x = " + x);
         sc.close();
